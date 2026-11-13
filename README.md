@@ -217,4 +217,4 @@ Panda Internet Security is available as a full free version with all features an
 Experience the ultimate in online protection with Panda Internet Security. **Download now and secure your online life!**
 
 ---
-**Last updated:** 2026-11-13 16:03:47 UTC
+**Last updated:** 2026-11-13 22:27:23 UTC
